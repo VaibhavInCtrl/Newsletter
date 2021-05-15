@@ -1,0 +1,19 @@
+#inputBox{
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1px;
+}
+body{
+    text-align: center;}
+h1{
+    padding-top: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 1%;
+}
+.signup{
+    margin: auto;
+}
+.btn{
+    margin-top: 20px;
+}
